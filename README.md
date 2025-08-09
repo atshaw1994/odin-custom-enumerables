@@ -6,7 +6,7 @@ The 'Custom Enumerables' project from The Odin Project.
 
 In terminal, enter:
 ```bash
-ruby ./custom-enumerables.rb
+ruby custom-enumerables.rb
 ```
 
 ## Prerequisites
