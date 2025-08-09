@@ -2,7 +2,7 @@
 <p>The 'Custom Enumerables' project from The Odin Project.</p>
 
 <h4>How to run</h4>
-<p>In terminal, enter:</p>
+<ul><li>In terminal, enter:</li></ul>
 <p>ruby ./custom-enumerables.rb</p>
 
 <h4>Prerequisites</h4>
