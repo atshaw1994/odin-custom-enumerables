@@ -2,14 +2,14 @@
 
 The 'Custom Enumerables' project from The Odin Project.
 
-#### How to run
+## How to run
 
 In terminal, enter:
 ```bash
 ruby ./custom-enumerables.rb
 ```
 
-#### Prerequisites
+## Prerequisites
 <ul>
 <li>Ruby 3</li>
 </ul>
