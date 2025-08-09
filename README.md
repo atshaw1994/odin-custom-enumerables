@@ -4,9 +4,10 @@ The 'Custom Enumerables' project from The Odin Project.
 
 #### How to run
 
-<ul><li>In terminal, enter:</li></ul>
+In terminal, enter:
 ```bash
 ruby ./custom-enumerables.rb
+```
 
 #### Prerequisites
 <ul>
