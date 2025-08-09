@@ -3,7 +3,9 @@
 
 <h4>How to run</h4>
 <ul><li>In terminal, enter:</li></ul>
-<p>ruby ./custom-enumerables.rb</p>
+```bash
+ruby ./custom-enumerables.rb
+```
 
 <h4>Prerequisites</h4>
 <ul>
