@@ -1,2 +1,10 @@
-# odin-custom-enumerables
-The 'Custom Enumerables' project from The Odin Project
+<h1>Odin-Custom-Enumerables</h1>
+<p>The 'Custom Enumerables' project from The Odin Project.</p>
+
+<h4>How to run</h4>
+<p>In terminal, enter "ruby ./custom-enumerables.rb"</p>
+
+<h4>Prerequisites</h4>
+<ul>
+    <li>Ruby 3</li>
+</ul>
